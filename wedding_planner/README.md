@@ -33,9 +33,7 @@ This project was developed as part of an assignment to demonstrate **mobile app 
 
 ---
 
-## 📱 Screenshots / Demo
-## 📱 Screenshots
-
+## 📱 Screenshots 
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/5c2a902d-5a04-47dc-a633-326db06de025" width="30%" />
