@@ -34,15 +34,26 @@ This project was developed as part of an assignment to demonstrate **mobile app 
 ---
 
 ## 📱 Screenshots / Demo
-<img width="1344" height="2992" alt="Screenshot_1757007737" src="https://github.com/user-attachments/assets/5c2a902d-5a04-47dc-a633-326db06de025" />
-<img width="1344" height="2992" alt="Screenshot_1757007715" src="https://github.com/user-attachments/assets/d19edf38-5050-4efc-9582-935733a7e9cc" />
-<img width="1344" height="2992" alt="Screenshot_1757007713" src="https://github.com/user-attachments/assets/212472b8-edb6-45e8-9c9c-889e79edb3c6" />
-<img width="1344" height="2992" alt="Screenshot_1757007765" src="https://github.com/user-attachments/assets/dca3df81-7f01-4a9b-9da9-45e8bbfa3874" />
+## 📱 Screenshots
 
-<img width="1344" height="2992" alt="Screenshot_1757007761" src="https://github.com/user-attachments/assets/da8a7806-64b7-49d2-89ce-d420ea2a09af" />
-<img width="1344" height="2992" alt="Screenshot_1757007758" src="https://github.com/user-attachments/assets/27afc357-6b5c-403d-87c8-a223992101d5" />
-<img width="1344" height="2992" alt="Screenshot_1757007750" src="https://github.com/user-attachments/assets/f9aea748-e983-4b4f-9078-ab35cbecece2" />
-<img width="1344" height="2992" alt="Screenshot_1757007743" src="https://github.com/user-attachments/assets/90661e4c-fa37-4da9-a9ec-c325d34dbf6b" />
+<div align="center">
+
+  <img src="https://github.com/user-attachments/assets/5c2a902d-5a04-47dc-a633-326db06de025" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d19edf38-5050-4efc-9582-935733a7e9cc" width="30%" />
+  <img src="https://github.com/user-attachments/assets/212472b8-edb6-45e8-9c9c-889e79edb3c6" width="30%" />
+
+  <br/>
+
+  <img src="https://github.com/user-attachments/assets/dca3df81-7f01-4a9b-9da9-45e8bbfa3874" width="30%" />
+  <img src="https://github.com/user-attachments/assets/da8a7806-64b7-49d2-89ce-d420ea2a09af" width="30%" />
+  <img src="https://github.com/user-attachments/assets/27afc357-6b5c-403d-87c8-a223992101d5" width="30%" />
+
+  <br/>
+
+  <img src="https://github.com/user-attachments/assets/f9aea748-e983-4b4f-9078-ab35cbecece2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/90661e4c-fa37-4da9-a9ec-c325d34dbf6b" width="30%" />
+
+</div>
 
 ---
 
