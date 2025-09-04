@@ -1,0 +1,20 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true       # Use const where possible
+    prefer_const_literals_to_create_immutables: true
+    avoid_unnecessary_containers: true    # Avoid wrapping with useless Containers
+
+    avoid_print: true                     # Use proper logging instead of print
+    avoid_function_literals_in_foreach_calls: true
+    unawaited_futures: true               # Ensure async ops aren’t forgotten
+    cancel_subscriptions: true            # Prevent memory leaks with Streams
+    close_sinks: true
+
+    always_declare_return_types: true     # Make functions more explicit
+    annotate_overrides: true
+    avoid_redundant_argument_values: true
+    require_trailing_commas: true         # Cleaner diffs
+    unnecessary_this: true
+    use_super_parameters: true            # Cleaner constructors in Dart 3
