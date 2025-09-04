@@ -58,5 +58,5 @@ This project was developed as part of an assignment to demonstrate **mobile app 
 ## 🛠️ Tech Stack
 - **Flutter / Dart** (cross-platform development)
 - **State Management:** GetX
-- **Local Storage:**SharedPreferences and Firebase
+- **Local Storage:** SharedPreferences and Firebase
 - **UI Assets:** Material Icons, custom illustrations
