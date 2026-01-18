@@ -1,0 +1,28 @@
+# analysis_options.yaml
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
+  # set severity for analyzer diagnostics (diagnostic name: severity)
+  errors:
+    # to change analyzer diagnostic severity (example):
+    unnecessary_null_comparison: warning
+    # or to silence it entirely:
+    # unnecessary_null_comparison: ignore
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    prefer_const_declarations: true
+    prefer_final_fields: true
+    prefer_final_locals: true
+
+    # null-related lint (valid rule)
+    unnecessary_null_checks: true
+
+    # other useful rules
+    avoid_redundant_argument_values: true
